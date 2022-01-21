@@ -1,0 +1,12 @@
+[submodule "Clojure-linear-algebra"]
+	path = Clojure-linear-algebra
+	url = https://github.com/sw1tcherrr/Clojure-linear-algebra
+[submodule "Clojure-parsers"]
+	path = Clojure-parsers
+	url = https://github.com/sw1tcherrr/Clojure-parsers
+[submodule "JS-parsers"]
+	path = JS-parsers
+	url = https://github.com/sw1tcherrr/JS-parsers
+[submodule "Java-parser"]
+	path = Java-parser
+	url = https://github.com/sw1tcherrr/Java-parser
